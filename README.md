@@ -1,6 +1,6 @@
 - olá, me chamo Renê 
-- sou desenvovedor de softare, atualmente estou trabalhando com C# e JAVA em dois projetos pessoais.
-- em busca de mais conhecimento todos os dias.
+- sou desenvovedor de software, atualmente estou trabalhando com C#, JavaScript com react native e JAVA com spring boot em alguns projetos pessoais.
+- em busca de mais conhecimentos todos os dias.
 
 - para entrar em contato envie um email para: renerodriguessantana@gmail.com
 
